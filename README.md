@@ -1,4 +1,4 @@
-[View Demo]()            [Read Wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki)  
+[Read Wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki)  
 
 # Introduction
 ***
