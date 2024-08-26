@@ -7,12 +7,16 @@
 
 An exploratory data analysis on river flow and rainfall at Bathford gauging station on the River Avon.
 
+<div align="center">
+<img src="Bathford-Station-Image.jpg" alt="Bathford Station" width="446" height="362">
+</div>
+
 ***
 
 ## Project Aims
 This is my first independent project and was intended as a learning exercise to practise version control, use an IDE and learn GitHub's features.
 
-If you are a beginner too, my Jupyter NoteBook outlines the tasks for each step of the project and the project's [wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki) has more background info on the resources and tools I found helpful.
+If you are a beginner, my Jupyter NoteBook outlines the tasks I completed for each step of the project and the project's [wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki) has more background information on the resources and tools I found helpful.
 
 ***
 ## Project Synopsis
@@ -39,8 +43,8 @@ import matplotlib.pyplot as plt  # For static data visualization
 import seaborn as sns     # For statistical data visualization
 ```
 Data:
-   - **Source**: [National River Flow Archive}(https://nrfa.ceh.ac.uk/) (UK)
-   - **Usage**: Gauged Daily Glow and Catchment Daily Rainfall for the River Avon.
+   - **Source**: [National River Flow Archive](https://nrfa.ceh.ac.uk/) (UK)
+   - **Usage**: Gauged Daily Glow and Catchment Daily Rainfall for [Bathford Station](https://nrfa.ceh.ac.uk/data/station/info/53018) on the River Avon.
    - **Format**: CSV files downloaded from the National River Flow Archive's website.
 
 ***
