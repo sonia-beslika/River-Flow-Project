@@ -1,4 +1,4 @@
-[Read Wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki)  
+[View Repo](https://github.com/sonia-beslika/River-Flow-Project) | [Read Wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki) | [View Website](https://sonia-beslika.github.io/River-Flow-Project/)
 
 # Introduction
 ***
