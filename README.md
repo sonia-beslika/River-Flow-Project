@@ -8,7 +8,7 @@
 An exploratory data analysis on river flow and rainfall at Bathford gauging station on the River Avon.
 
 <div align="center">
-<img src="Bathford-Station-Image.jpg" alt="Bathford Station" width="446" height="362">
+<img src="Bathford-Station-Image.jpg" alt="Bathford Station" width="446" height="362" style="margin: 20px;>
 </div>
 
 ***
