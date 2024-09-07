@@ -1,4 +1,4 @@
-[View Repo](https://github.com/sonia-beslika/River-Flow-Project) | [Read Wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki) | [View Website](https://sonia-beslika.github.io/River-Flow-Project/)
+[View Repo](https://github.com/sonia-beslika/River-Flow-Project) |[View Jupyter Notebook](river-avon-portfolio-project.ipynb) | [Read Wiki](https://github.com/sonia-beslika/River-Flow-Project/wiki) | [View Website](https://sonia-beslika.github.io/River-Flow-Project/)
 
 # Introduction
 ***
